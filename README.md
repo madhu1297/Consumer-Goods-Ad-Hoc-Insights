@@ -69,4 +69,7 @@ and Power BI for visualization
 
 Note-
 
+[ad-hoc-requests.pdf](https://github.com/madhu1297/Consumer-Goods-Ad-Hoc-Insights/blob/main/ad-hoc-requests.pdf) In this file, you will find all the Questions
+
+[AD_HOC_REQUEST.sql](https://github.com/madhu1297/Consumer-Goods-Ad-Hoc-Insights/blob/main/AD_HOC_REQUEST.sql) In this file you will find all the Answers.
 
